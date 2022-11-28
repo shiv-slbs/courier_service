@@ -1,6 +1,5 @@
-Library used :-
-
-pip3 install <h1>mysql-conector-python</h1>
+<h3>Library used :- </h3>
+<p>Pip3 install <h4>mysql-connector-python</h4></p>
 
 please ensure to have done :
 
