@@ -1,5 +1,5 @@
 library used :
-pip3 install mysql-conector-python
+pip3 install <h1>mysql-conector-python</h>
 
 please ensure to have done :
 nstallation of mysql
