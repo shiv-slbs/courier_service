@@ -1,38 +1,9 @@
-<h3>Library used :- </h3>
-<p>Pip3 install <h4>      1.mysql-connector-python</h4></p>
+Library used : - mysql-connector-python
 
-please ensure to have done :
-
-installation of mysql
-
-create a database in mysql
-
-create a table which contains details regarding customers
-
-Table headers are:
-
-customer ID
-
-Name
-
-mobile
-
-email
-
-address
-
-create another table containing details regarding orde
-
-Table headers are:
-
-customer ID
-
-order ID
-
-Package name
-
-from address
-
-to address
-
-THAT's ALL THANK YOU <3
+How to use programme:-
+1.Make sure you have installed mysql server
+2.Make sure to have details like :- (user , password, host )
+   for server on your pc it's (user = "root" , host = "localhost" & password is same as you've entered during installation)
+3.First run "initial.py" to create database,tables as it is ussed in programmes
+4.Remember the database name printed @ ending of 1st programme.
+5.Now Run "main.py" & ITS's ALL ! <3
