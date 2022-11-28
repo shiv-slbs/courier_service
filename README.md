@@ -1,5 +1,5 @@
 <h3>Library used :- </h3>
-<p>Pip3 install <h4>mysql-connector-python</h4></p>
+<p>Pip3 install <h4>      1.mysql-connector-python</h4></p>
 
 please ensure to have done :
 
