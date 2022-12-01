@@ -1,15 +1,15 @@
-Library used : - mysql-connector-python
+### Library Used
+Python MySQL Connector
 
-How to use programme:-
+### How to use the service
 
-1.Make sure you have installed mysql server
+1. Make sure you have MySQL Server installed on your host device.
 
-2.Make sure to have details like :- (user , password, host )
-  
-  for server on your pc it's (user = "root" , host = "localhost" & password is same as you've entered during installation)
+2. Make sure you have the following details: **USERNAME, PASSWORD, HOSTNAME**.
 
-3.First run "initial.py" to create database,tables as it is ussed in programmes
-
-4.Remember the database name printed @ ending of 1st programme.
-
-5.Now Run "main.py" & ITS's ALL ! <3
+    For a default installation without any changes in initial configuration, details are:
+     - USERNAME = root
+     - HOSTNAME = localhost
+     - PASSWORD is empty if you have not entered any password during installation, otherwise it will the password set by you.
+    
+3. Finally, run "main.py" & IT'S ALL! <3
